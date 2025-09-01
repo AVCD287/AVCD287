@@ -1,4 +1,7 @@
-## Hi there 👋
+<h2> <center>  Hello there, 
+I´m Daniel Alonso V.
+Soy estudiante de doctorado, actualmente me encuentro realizando mi tesis de doctorado, urilizando tecnicas electrofisiologicas (whole cell, patch clamp) <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIxMHJ3d2NycTE3dnBnMnUzY2N5bjExaXR3djM0OW1nYTdlZXJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pK6k4BNalmx44CQj3v/giphy.gif weihgt/h2>
+
 
 <!--
 **AVCD287/AVCD287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
