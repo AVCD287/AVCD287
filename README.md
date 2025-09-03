@@ -1,6 +1,24 @@
-<h2> <center>  Hello there, 
-I´m Daniel Alonso V.
-Soy estudiante de doctorado, actualmente me encuentro realizando mi tesis de doctorado, urilizando tecnicas electrofisiologicas (whole cell, patch clamp) <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIxMHJ3d2NycTE3dnBnMnUzY2N5bjExaXR3djM0OW1nYTdlZXJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pK6k4BNalmx44CQj3v/giphy.gif weihgt/h2>
+<h1> <center> Hello there, i´m Daniel Alonso V.</h1></center>
+  <div> </div>
+<h1> I´m PhD student 
+  <div>
+<img  height="300px" width="300px" src =https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIxMHJ3d2NycTE3dnBnMnUzY2N5bjExaXR3djM0OW1nYTdlZXJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pK6k4BNalmx44CQj3v/giphy.gif aling="rigth">
+   </div>
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
