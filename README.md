@@ -2,8 +2,11 @@
   <div> </div>
 <h1> I´m PhD student 
   <div>
-<img  height="300px" width="300px" src =https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIxMHJ3d2NycTE3dnBnMnUzY2N5bjExaXR3djM0OW1nYTdlZXJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pK6k4BNalmx44CQj3v/giphy.gif aling="rigth">
-   </div>
+<br /> 
+<img align="center" height="300px" width="300px" alt="GIF" src =https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWIxMHJ3d2NycTE3dnBnMnUzY2N5bjExaXR3djM0OW1nYTdlZXJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pK6k4BNalmx44CQj3v/giphy.gif>
+
+      
+
 
  
  
